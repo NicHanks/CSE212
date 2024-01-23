@@ -24,9 +24,22 @@ while (selection != "3") {
 
         GradeTask task = new GradeTask(course, project, studentId);
         // TODO
+        // idk what to do
+        // ADD TO QUE
+        graderQueue.Enqueue(task);
     }
     else if (selection == "2") {
         // TODO
+        int l = graderQueue.Count();
+        Console.WriteLine("# of items in que: {l}");
+        if (l > 0)
+        {
+            GradeTask u = graderQueue.Dequeue();
+            u.Grade();
+            graderQueue.Dequeue();
+        } else {
+            Console.WriteLine("Already cleared! ");
+        }
     }
 
     Console.WriteLine("Goodbye!");

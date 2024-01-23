@@ -1,0 +1,15 @@
+C:\Users\nicha\Documents\OneDrive\Documents\BYUI\winter2024\CSE212\w04\demo-04a-solution\bin\Debug\net8.0\demo-04a-solution.exe
+C:\Users\nicha\Documents\OneDrive\Documents\BYUI\winter2024\CSE212\w04\demo-04a-solution\bin\Debug\net8.0\demo-04a-solution.deps.json
+C:\Users\nicha\Documents\OneDrive\Documents\BYUI\winter2024\CSE212\w04\demo-04a-solution\bin\Debug\net8.0\demo-04a-solution.runtimeconfig.json
+C:\Users\nicha\Documents\OneDrive\Documents\BYUI\winter2024\CSE212\w04\demo-04a-solution\bin\Debug\net8.0\demo-04a-solution.dll
+C:\Users\nicha\Documents\OneDrive\Documents\BYUI\winter2024\CSE212\w04\demo-04a-solution\bin\Debug\net8.0\demo-04a-solution.pdb
+C:\Users\nicha\Documents\OneDrive\Documents\BYUI\winter2024\CSE212\w04\demo-04a-solution\obj\Debug\net8.0\demo-04a-solution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicha\Documents\OneDrive\Documents\BYUI\winter2024\CSE212\w04\demo-04a-solution\obj\Debug\net8.0\demo-04a-solution.AssemblyInfoInputs.cache
+C:\Users\nicha\Documents\OneDrive\Documents\BYUI\winter2024\CSE212\w04\demo-04a-solution\obj\Debug\net8.0\demo-04a-solution.AssemblyInfo.cs
+C:\Users\nicha\Documents\OneDrive\Documents\BYUI\winter2024\CSE212\w04\demo-04a-solution\obj\Debug\net8.0\demo-04a-solution.csproj.CoreCompileInputs.cache
+C:\Users\nicha\Documents\OneDrive\Documents\BYUI\winter2024\CSE212\w04\demo-04a-solution\obj\Debug\net8.0\demo-04a-solution.sourcelink.json
+C:\Users\nicha\Documents\OneDrive\Documents\BYUI\winter2024\CSE212\w04\demo-04a-solution\obj\Debug\net8.0\demo-04a-solution.dll
+C:\Users\nicha\Documents\OneDrive\Documents\BYUI\winter2024\CSE212\w04\demo-04a-solution\obj\Debug\net8.0\refint\demo-04a-solution.dll
+C:\Users\nicha\Documents\OneDrive\Documents\BYUI\winter2024\CSE212\w04\demo-04a-solution\obj\Debug\net8.0\demo-04a-solution.pdb
+C:\Users\nicha\Documents\OneDrive\Documents\BYUI\winter2024\CSE212\w04\demo-04a-solution\obj\Debug\net8.0\demo-04a-solution.genruntimeconfig.cache
+C:\Users\nicha\Documents\OneDrive\Documents\BYUI\winter2024\CSE212\w04\demo-04a-solution\obj\Debug\net8.0\ref\demo-04a-solution.dll
