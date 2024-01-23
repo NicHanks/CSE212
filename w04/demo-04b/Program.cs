@@ -24,7 +24,7 @@ server.AddRequest("17.3.32.110", "https://weather.gov");
 server.ProcessRequest();
 server.ProcessRequest();
 server.ProcessRequest();
-// Defect(s) Found:
+// Defect(s) Found: think <server.ProcessRequest();> is going to process the same thing over and over again. 
 
 Console.WriteLine("=================");
 
@@ -34,4 +34,4 @@ Console.WriteLine("=================");
 Console.WriteLine("Test 3");
 server = new WebServer();
 server.ProcessRequest();
-// Defect(s) Found:
+// Defect(s) Found: none. handled errors well. 

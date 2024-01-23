@@ -15,7 +15,7 @@ Console.WriteLine("Test 1");
 PhoneSwitch phoneSwitch = new PhoneSwitch(5);
 phoneSwitch.RequestCall("555-1234");
 phoneSwitch.ProcessNextCall();
-// Defect(s) Found: 
+// Defect(s) Found: nope
 
 Console.WriteLine("=================");
 
@@ -30,7 +30,7 @@ phoneSwitch.RequestCall("555-1379");
 phoneSwitch.ProcessNextCall();
 phoneSwitch.ProcessNextCall();
 phoneSwitch.ProcessNextCall();
-// Defect(s) Found: 
+// Defect(s) Found: _
 
 Console.WriteLine("=================");
 
@@ -45,7 +45,7 @@ phoneSwitch.RequestCall("911");
 phoneSwitch.ProcessNextCall();
 phoneSwitch.ProcessNextCall();
 phoneSwitch.ProcessNextCall();
-// Defect(s) Found: 
+// Defect(s) Found:  won't be played first, index should be zero
 
 Console.WriteLine("=================");
 
@@ -55,7 +55,7 @@ Console.WriteLine("=================");
 Console.WriteLine("Test 4");
 phoneSwitch = new PhoneSwitch(5);
 phoneSwitch.ProcessNextCall();
-// Defect(s) Found: 
+// Defect(s) Found: i don't think so
 
 Console.WriteLine("=================");
 
@@ -64,4 +64,4 @@ Console.WriteLine("=================");
 // Expected Result: TDB
 Console.WriteLine("Test 5");
 
-// Defect(s) Found: 
+// Defect(s) Found: okkk
