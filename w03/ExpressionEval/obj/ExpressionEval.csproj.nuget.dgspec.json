@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nicha\\Documents\\OneDrive\\Documents\\BYUI\\winter2024\\CSE212\\w04\\demo-04a-solution\\demo-04a-solution.csproj": {}
+    "C:\\Users\\nicha\\Documents\\OneDrive\\Documents\\BYUI\\winter2024\\CSE212\\w03\\ExpressionEval\\ExpressionEval.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nicha\\Documents\\OneDrive\\Documents\\BYUI\\winter2024\\CSE212\\w04\\demo-04a-solution\\demo-04a-solution.csproj": {
+    "C:\\Users\\nicha\\Documents\\OneDrive\\Documents\\BYUI\\winter2024\\CSE212\\w03\\ExpressionEval\\ExpressionEval.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nicha\\Documents\\OneDrive\\Documents\\BYUI\\winter2024\\CSE212\\w04\\demo-04a-solution\\demo-04a-solution.csproj",
-        "projectName": "demo-04a-solution",
-        "projectPath": "C:\\Users\\nicha\\Documents\\OneDrive\\Documents\\BYUI\\winter2024\\CSE212\\w04\\demo-04a-solution\\demo-04a-solution.csproj",
+        "projectUniqueName": "C:\\Users\\nicha\\Documents\\OneDrive\\Documents\\BYUI\\winter2024\\CSE212\\w03\\ExpressionEval\\ExpressionEval.csproj",
+        "projectName": "ExpressionEval",
+        "projectPath": "C:\\Users\\nicha\\Documents\\OneDrive\\Documents\\BYUI\\winter2024\\CSE212\\w03\\ExpressionEval\\ExpressionEval.csproj",
         "packagesPath": "C:\\Users\\nicha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nicha\\Documents\\OneDrive\\Documents\\BYUI\\winter2024\\CSE212\\w04\\demo-04a-solution\\obj\\",
+        "outputPath": "C:\\Users\\nicha\\Documents\\OneDrive\\Documents\\BYUI\\winter2024\\CSE212\\w03\\ExpressionEval\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nicha\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

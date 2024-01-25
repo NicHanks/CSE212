@@ -17,22 +17,21 @@ public class Eval
         double answer = 0.0;
 
         // TODO - add you code here
-        // expression = { "3", "4", "+"}
-        var stack = New stack<var>
+        var stack = new Stack<string>();
         foreach (string i in expression)
         {
-            //i = var.Parse();
-            stack = stack.push(i);
+            stack.Push(i);
         }
-        foreach (var i in stack)
+        foreach (string i in stack)
         {
-            var op2 = stack.pop();
-            var op1 = stack.pop();
-            if (i == +) {
+            var op2 = float.Parse(stack.Pop());
+            var op1 = float.Parse(stack.Pop());
+            if (i == "+") {
                 answer = op2 + op1;
-            } else if (i == *) {
+            } else if (i == "*")
+             {
                 answer = op2 * op1;
-            } else if (i == /) {
+            } else if (i == "/") {
                 answer = op1 / op2;
             }
         }

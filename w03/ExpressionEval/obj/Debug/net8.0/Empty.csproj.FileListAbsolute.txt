@@ -1,0 +1,5 @@
+/Users/nicholashanks/Documents/BYUI/winter2024 (1)/CSE212/w03/ExpressionEval/obj/Debug/net8.0/Empty.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nicholashanks/Documents/BYUI/winter2024 (1)/CSE212/w03/ExpressionEval/obj/Debug/net8.0/Empty.AssemblyInfoInputs.cache
+/Users/nicholashanks/Documents/BYUI/winter2024 (1)/CSE212/w03/ExpressionEval/obj/Debug/net8.0/Empty.AssemblyInfo.cs
+/Users/nicholashanks/Documents/BYUI/winter2024 (1)/CSE212/w03/ExpressionEval/obj/Debug/net8.0/Empty.csproj.CoreCompileInputs.cache
+/Users/nicholashanks/Documents/BYUI/winter2024 (1)/CSE212/w03/ExpressionEval/obj/Debug/net8.0/Empty.sourcelink.json
