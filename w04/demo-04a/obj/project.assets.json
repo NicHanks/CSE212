@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\nicha\\.nuget\\packages\\": {}
+    "/Users/nicholashanks/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nicha\\Documents\\OneDrive\\Documents\\BYUI\\winter2024\\CSE212\\w04\\demo-04a\\demo-04a.csproj",
+      "projectUniqueName": "/Users/nicholashanks/Documents/BYUI/winter2024/CSE212/w04/demo-04a/demo-04a.csproj",
       "projectName": "demo-04a",
-      "projectPath": "C:\\Users\\nicha\\Documents\\OneDrive\\Documents\\BYUI\\winter2024\\CSE212\\w04\\demo-04a\\demo-04a.csproj",
-      "packagesPath": "C:\\Users\\nicha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nicha\\Documents\\OneDrive\\Documents\\BYUI\\winter2024\\CSE212\\w04\\demo-04a\\obj\\",
+      "projectPath": "/Users/nicholashanks/Documents/BYUI/winter2024/CSE212/w04/demo-04a/demo-04a.csproj",
+      "packagesPath": "/Users/nicholashanks/.nuget/packages/",
+      "outputPath": "/Users/nicholashanks/Documents/BYUI/winter2024/CSE212/w04/demo-04a/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\nicha\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/nicholashanks/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

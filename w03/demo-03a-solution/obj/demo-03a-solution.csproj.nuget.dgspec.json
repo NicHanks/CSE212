@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/nicholashanks/Documents/BYUI/winter2024 (1)/CSE212/w03/demo-03a-solution/demo-03a-solution.csproj": {}
+    "/Users/nicholashanks/Documents/BYUI/winter2024/CSE212/w03/demo-03a-solution/demo-03a-solution.csproj": {}
   },
   "projects": {
-    "/Users/nicholashanks/Documents/BYUI/winter2024 (1)/CSE212/w03/demo-03a-solution/demo-03a-solution.csproj": {
+    "/Users/nicholashanks/Documents/BYUI/winter2024/CSE212/w03/demo-03a-solution/demo-03a-solution.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/nicholashanks/Documents/BYUI/winter2024 (1)/CSE212/w03/demo-03a-solution/demo-03a-solution.csproj",
+        "projectUniqueName": "/Users/nicholashanks/Documents/BYUI/winter2024/CSE212/w03/demo-03a-solution/demo-03a-solution.csproj",
         "projectName": "demo-03a-solution",
-        "projectPath": "/Users/nicholashanks/Documents/BYUI/winter2024 (1)/CSE212/w03/demo-03a-solution/demo-03a-solution.csproj",
+        "projectPath": "/Users/nicholashanks/Documents/BYUI/winter2024/CSE212/w03/demo-03a-solution/demo-03a-solution.csproj",
         "packagesPath": "/Users/nicholashanks/.nuget/packages/",
-        "outputPath": "/Users/nicholashanks/Documents/BYUI/winter2024 (1)/CSE212/w03/demo-03a-solution/obj/",
+        "outputPath": "/Users/nicholashanks/Documents/BYUI/winter2024/CSE212/w03/demo-03a-solution/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/nicholashanks/.nuget/NuGet/NuGet.Config"

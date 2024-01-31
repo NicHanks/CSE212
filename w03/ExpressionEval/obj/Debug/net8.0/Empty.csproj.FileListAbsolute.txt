@@ -3,3 +3,13 @@
 /Users/nicholashanks/Documents/BYUI/winter2024 (1)/CSE212/w03/ExpressionEval/obj/Debug/net8.0/Empty.AssemblyInfo.cs
 /Users/nicholashanks/Documents/BYUI/winter2024 (1)/CSE212/w03/ExpressionEval/obj/Debug/net8.0/Empty.csproj.CoreCompileInputs.cache
 /Users/nicholashanks/Documents/BYUI/winter2024 (1)/CSE212/w03/ExpressionEval/obj/Debug/net8.0/Empty.sourcelink.json
+/Users/nicholashanks/Documents/BYUI/winter2024 (1)/CSE212/w03/ExpressionEval/bin/Debug/net8.0/Empty
+/Users/nicholashanks/Documents/BYUI/winter2024 (1)/CSE212/w03/ExpressionEval/bin/Debug/net8.0/Empty.deps.json
+/Users/nicholashanks/Documents/BYUI/winter2024 (1)/CSE212/w03/ExpressionEval/bin/Debug/net8.0/Empty.runtimeconfig.json
+/Users/nicholashanks/Documents/BYUI/winter2024 (1)/CSE212/w03/ExpressionEval/bin/Debug/net8.0/Empty.dll
+/Users/nicholashanks/Documents/BYUI/winter2024 (1)/CSE212/w03/ExpressionEval/bin/Debug/net8.0/Empty.pdb
+/Users/nicholashanks/Documents/BYUI/winter2024 (1)/CSE212/w03/ExpressionEval/obj/Debug/net8.0/Empty.dll
+/Users/nicholashanks/Documents/BYUI/winter2024 (1)/CSE212/w03/ExpressionEval/obj/Debug/net8.0/refint/Empty.dll
+/Users/nicholashanks/Documents/BYUI/winter2024 (1)/CSE212/w03/ExpressionEval/obj/Debug/net8.0/Empty.pdb
+/Users/nicholashanks/Documents/BYUI/winter2024 (1)/CSE212/w03/ExpressionEval/obj/Debug/net8.0/Empty.genruntimeconfig.cache
+/Users/nicholashanks/Documents/BYUI/winter2024 (1)/CSE212/w03/ExpressionEval/obj/Debug/net8.0/ref/Empty.dll

@@ -22,10 +22,11 @@ public class Eval
         {
             stack.Push(i);
         }
-        foreach (string i in stack)
+        while (stack.Count() > 1)
         {
-            var op2 = float.Parse(stack.Pop());
-            var op1 = float.Parse(stack.Pop());
+            var op2 = double.Parse(stack.Pop());
+            var op1 = double.Parse(stack.Pop());
+            var i = stack.Pop();
             if (i == "+") {
                 answer = op2 + op1;
             } else if (i == "*")
