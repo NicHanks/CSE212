@@ -59,14 +59,14 @@ public class SimpleQueue {
         // Defect(s) Found: 
     }
 
-    private readonly List<int> _queue = new();
+    private readonly List<int> _queue = new();  // fixed list to Queue<> and added Queue<int> inbetween new and (). 
 
     /// <summary>
     /// Enqueue the value provided into the queue
     /// </summary>
     /// <param name="value">Integer value to add to the queue</param>
     private void Enqueue(int value) {
-        _queue.Insert(0, value);
+        _queue.Add(value);
     }
 
     /// <summary>
@@ -77,9 +77,9 @@ public class SimpleQueue {
     private int Dequeue() {
         if (_queue.Count <= 0)
             throw new IndexOutOfRangeException();
-
-        var value = _queue[1];
-        _queue.RemoveAt(1);
+        
+        var value = _queue[0];  //changed to zero from 1
+        _queue.RemoveAt(0);  //changed 1 to 0.
         return value;
     }
 }
