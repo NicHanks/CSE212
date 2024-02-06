@@ -23,10 +23,15 @@ public class CustomerService {
         // Test Cases
 
         // Test 1
-        // Scenario: 
-        // Expected Result: 
+        // Scenario: create a new customer service and make sure it is 10 or more
+        // Expected Result: default when 1 is put in should be 10, 13 should be 13. 
         Console.WriteLine("Test 1");
-
+        try 
+            {
+            var x = new CustomerService(1);
+            }
+        //.. ... TestExceptionpassed exceptionpassed
+        var y = new CustomerService(13);
         // Defect(s) Found: 
 
         Console.WriteLine("=================");
@@ -45,7 +50,7 @@ public class CustomerService {
 
     private readonly List<Customer> _queue = new();
     private readonly int _maxSize;
-
+// should be maxSize = 10 by default. 
     public CustomerService(int maxSize) {
         if (maxSize <= 0)
             _maxSize = 10;

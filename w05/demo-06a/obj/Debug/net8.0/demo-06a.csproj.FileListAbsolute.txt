@@ -1,0 +1,15 @@
+/Users/nicholashanks/Documents/BYUI/winter2024/CSE212/w05/demo-06a/bin/Debug/net8.0/demo-06a
+/Users/nicholashanks/Documents/BYUI/winter2024/CSE212/w05/demo-06a/bin/Debug/net8.0/demo-06a.deps.json
+/Users/nicholashanks/Documents/BYUI/winter2024/CSE212/w05/demo-06a/bin/Debug/net8.0/demo-06a.runtimeconfig.json
+/Users/nicholashanks/Documents/BYUI/winter2024/CSE212/w05/demo-06a/bin/Debug/net8.0/demo-06a.dll
+/Users/nicholashanks/Documents/BYUI/winter2024/CSE212/w05/demo-06a/bin/Debug/net8.0/demo-06a.pdb
+/Users/nicholashanks/Documents/BYUI/winter2024/CSE212/w05/demo-06a/obj/Debug/net8.0/demo-06a.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nicholashanks/Documents/BYUI/winter2024/CSE212/w05/demo-06a/obj/Debug/net8.0/demo-06a.AssemblyInfoInputs.cache
+/Users/nicholashanks/Documents/BYUI/winter2024/CSE212/w05/demo-06a/obj/Debug/net8.0/demo-06a.AssemblyInfo.cs
+/Users/nicholashanks/Documents/BYUI/winter2024/CSE212/w05/demo-06a/obj/Debug/net8.0/demo-06a.csproj.CoreCompileInputs.cache
+/Users/nicholashanks/Documents/BYUI/winter2024/CSE212/w05/demo-06a/obj/Debug/net8.0/demo-06a.sourcelink.json
+/Users/nicholashanks/Documents/BYUI/winter2024/CSE212/w05/demo-06a/obj/Debug/net8.0/demo-06a.dll
+/Users/nicholashanks/Documents/BYUI/winter2024/CSE212/w05/demo-06a/obj/Debug/net8.0/refint/demo-06a.dll
+/Users/nicholashanks/Documents/BYUI/winter2024/CSE212/w05/demo-06a/obj/Debug/net8.0/demo-06a.pdb
+/Users/nicholashanks/Documents/BYUI/winter2024/CSE212/w05/demo-06a/obj/Debug/net8.0/demo-06a.genruntimeconfig.cache
+/Users/nicholashanks/Documents/BYUI/winter2024/CSE212/w05/demo-06a/obj/Debug/net8.0/ref/demo-06a.dll
