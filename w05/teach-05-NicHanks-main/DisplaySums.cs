@@ -1,4 +1,6 @@
-﻿namespace teach_05;
+﻿using System.Globalization;
+
+namespace teach_05;
 
 /*
  * CSE212 
@@ -41,6 +43,23 @@ public static class DisplaySums {
     /// <param name="numbers">array of integers</param>
     private static void DisplaySumPairs(int[] numbers) {
         // TODO Problem 2 - This should print pairs of numbers in the given array
-        Console.log()
+
+        var x = new HashSet<int>();
+        foreach (var n in numbers) {
+            if (x.Contains(10 - n)) 
+                Console.WriteLine($"{n}{10-n}"); 
+            x.Add(n);
+        }
+
+        // My miserable failed tried
+        // My miserable attempt that failed. 
+        // int j=0;
+        // for (int i = 0; i < numbers.Count(); i = i+2) {
+        //     j += 2; 
+        //     int first = numbers[i];
+        //     int second = numbers[j];
+        //     Console.WriteLine($"{first}{second}");
+        }
+        
     }
 }
