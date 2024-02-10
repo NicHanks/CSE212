@@ -1,0 +1,10 @@
+Write down an answer to the question in your response document as if you were giving a verbal response
+
+purpose/behavior/performance of the task at hand is:
+A function to find the intersection of two sets is finding the common element of the list 
+by identifying two common hashes. Since this can quickly be done its performance is O(1),
+and the behavior for finding intersection is basically just looping through the list untill 
+a hash matches another. 
+
+A function with the union properties will basically find all of the common variables of two lists, 
+or HashSets. For example, with an O(1) performance it will look for hashes that are duplicates. 
