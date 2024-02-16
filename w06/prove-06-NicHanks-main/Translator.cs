@@ -1,3 +1,5 @@
+using Microsoft.VisualBasic;
+
 namespace prove_06;
 
 public class Translator {
@@ -24,7 +26,11 @@ public class Translator {
     /// <returns>The translated word or "???" if no translation is available</returns>
     public string Translate(string fromWord) {
         // Todo Problem 1 - ADD YOUR CODE HERE
-        var x = _words.Contains<f;
-        return "";
+        if (_words.ContainsKey(fromWord)) {
+            var x = _words[fromWord];
+            return x;
+        } else {
+            return "???";
+        }
     }
 }

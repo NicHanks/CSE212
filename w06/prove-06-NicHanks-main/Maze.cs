@@ -32,6 +32,18 @@ public class Maze {
     /// </summary>
     public void MoveLeft() {
         // FILL IN CODE
+        if (_mazeMap[(_currX,_currY)][0]) {
+            _currX--;
+            Console.WriteLine($"moved left to: {_currX}, {_currY}");
+        } else {
+            Console.WriteLine("error");
+        }
+        
+        
+
+
+
+
     }
 
     /// <summary>
@@ -40,6 +52,12 @@ public class Maze {
     /// </summary>
     public void MoveRight() {
         // FILL IN CODE
+        if (_mazeMap[(_currX,_currY)][1]) {
+            _currX++;
+            Console.WriteLine($"moved right to: {_currX}, {_currY}");
+        } else {
+            Console.WriteLine("error");
+        }
     }
 
     /// <summary>
@@ -48,6 +66,16 @@ public class Maze {
     /// </summary>
     public void MoveUp() {
         // FILL IN CODE
+        if (_mazeMap[(_currX,_currY)][2]) {
+            _currY--;
+            Console.WriteLine($"moved Up to: {_currX}, {_currY}");
+        } else {
+            Console.WriteLine("error");
+        }
+
+
+
+
     }
 
     /// <summary>
@@ -56,6 +84,13 @@ public class Maze {
     /// </summary>
     public void MoveDown() {
         // FILL IN CODE
+
+        if (_mazeMap[(_currX,_currY)][3]) {
+            _currY++;
+            Console.WriteLine($"moved Down to: {_currX}, {_currY}");
+        } else {
+            Console.WriteLine("error");
+        }
     }
 
     public void ShowStatus() {

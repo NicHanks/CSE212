@@ -1,3 +1,6 @@
+using System.ComponentModel;
+using System.ComponentModel.DataAnnotations;
+using System.Globalization;
 using System.Text.Json;
 
 namespace prove_06;
@@ -65,6 +68,9 @@ public static class MapsTester {
 
         // Sample Test Cases (may not be comprehensive) 
         // Todo Problem 5
+
+
+
         Console.WriteLine("\n=========== PROBLEM 5 TESTS ===========");
         EarthquakeDailySummary();
 
@@ -96,6 +102,24 @@ public static class MapsTester {
         foreach (var line in File.ReadLines(filename)) {
             var fields = line.Split(",");
             // Todo Problem 2 - ADD YOUR CODE HERE
+
+            if (!degrees.ContainsKey(fields[3])) {
+                degrees.Add(fields[3], 0);
+            } else {
+                degrees[fields[3]]++; // this is frequency
+            }
+
+
+
+
+
+
+
+
+
+
+
+
         }
 
         return degrees;
@@ -122,7 +146,43 @@ public static class MapsTester {
     /// #############
     private static bool IsAnagram(string word1, string word2) {
         // Todo Problem 3 - ADD YOUR CODE HERE
-        return false;
+
+        word1 = word1.ToLower();
+        word2 = word2.ToLower();
+
+        var dic = new Dictionary<char, int>();
+
+        foreach (var i in word1) { 
+            if (i == ' ') {
+                continue;
+            }
+
+            if (!dic.ContainsKey(i)){
+                dic.Add(i,1); 
+            } else {
+                dic[i]++;
+            }
+        }
+
+        foreach (var i in word2) {
+            if (i == ' ') {
+                continue;
+            }
+            if (dic.ContainsKey(i) && dic[i] > 0){
+                dic[i]--;
+            } else {
+                return false;
+            }
+        }
+        foreach (var i in dic.Values) {
+            if (i != 0) {
+                return false;
+            }
+        }
+
+        return true;
+
+
     }
 
     /// <summary>
@@ -200,5 +260,17 @@ public static class MapsTester {
         var featureCollection = JsonSerializer.Deserialize<FeatureCollection>(json, options);
         // 1. Add your code to map the json to the feature collection object
         // 2. Print out each place a earthquake has happened today
+
+        // add json to feature collection to Object
+
+        // find todays information in the object
+
+        //test
+        Console.WriteLine($"{reader}*************************");
+
+        // foreach (var x in object) {
+        //     Console.WriteLine(x);
+        // }
+
     }
 }
