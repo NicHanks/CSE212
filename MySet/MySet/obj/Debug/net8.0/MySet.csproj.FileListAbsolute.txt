@@ -1,0 +1,42 @@
+C:/Users/lucco/My Drive (comeaul@byui.edu)/Courses/CSE212/_LessonNotes/Week05/lesson/MySet/MySet/bin/Debug/net8.0/MySet.exe
+C:/Users/lucco/My Drive (comeaul@byui.edu)/Courses/CSE212/_LessonNotes/Week05/lesson/MySet/MySet/bin/Debug/net8.0/MySet.deps.json
+C:/Users/lucco/My Drive (comeaul@byui.edu)/Courses/CSE212/_LessonNotes/Week05/lesson/MySet/MySet/bin/Debug/net8.0/MySet.runtimeconfig.json
+C:/Users/lucco/My Drive (comeaul@byui.edu)/Courses/CSE212/_LessonNotes/Week05/lesson/MySet/MySet/bin/Debug/net8.0/MySet.dll
+C:/Users/lucco/My Drive (comeaul@byui.edu)/Courses/CSE212/_LessonNotes/Week05/lesson/MySet/MySet/bin/Debug/net8.0/MySet.pdb
+C:/Users/lucco/My Drive (comeaul@byui.edu)/Courses/CSE212/_LessonNotes/Week05/lesson/MySet/MySet/obj/Debug/net8.0/MySet.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/lucco/My Drive (comeaul@byui.edu)/Courses/CSE212/_LessonNotes/Week05/lesson/MySet/MySet/obj/Debug/net8.0/MySet.AssemblyInfoInputs.cache
+C:/Users/lucco/My Drive (comeaul@byui.edu)/Courses/CSE212/_LessonNotes/Week05/lesson/MySet/MySet/obj/Debug/net8.0/MySet.AssemblyInfo.cs
+C:/Users/lucco/My Drive (comeaul@byui.edu)/Courses/CSE212/_LessonNotes/Week05/lesson/MySet/MySet/obj/Debug/net8.0/MySet.csproj.CoreCompileInputs.cache
+C:/Users/lucco/My Drive (comeaul@byui.edu)/Courses/CSE212/_LessonNotes/Week05/lesson/MySet/MySet/obj/Debug/net8.0/MySet.dll
+C:/Users/lucco/My Drive (comeaul@byui.edu)/Courses/CSE212/_LessonNotes/Week05/lesson/MySet/MySet/obj/Debug/net8.0/refint/MySet.dll
+C:/Users/lucco/My Drive (comeaul@byui.edu)/Courses/CSE212/_LessonNotes/Week05/lesson/MySet/MySet/obj/Debug/net8.0/MySet.pdb
+C:/Users/lucco/My Drive (comeaul@byui.edu)/Courses/CSE212/_LessonNotes/Week05/lesson/MySet/MySet/obj/Debug/net8.0/MySet.genruntimeconfig.cache
+C:/Users/lucco/My Drive (comeaul@byui.edu)/Courses/CSE212/_LessonNotes/Week05/lesson/MySet/MySet/obj/Debug/net8.0/ref/MySet.dll
+/Users/comeaul/My Drive (comeaul@byui.edu)/Courses/CSE212/_LessonNotes/Week05/lesson1/MySet/MySet/bin/Debug/net8.0/MySet
+/Users/comeaul/My Drive (comeaul@byui.edu)/Courses/CSE212/_LessonNotes/Week05/lesson1/MySet/MySet/bin/Debug/net8.0/MySet.deps.json
+/Users/comeaul/My Drive (comeaul@byui.edu)/Courses/CSE212/_LessonNotes/Week05/lesson1/MySet/MySet/bin/Debug/net8.0/MySet.runtimeconfig.json
+/Users/comeaul/My Drive (comeaul@byui.edu)/Courses/CSE212/_LessonNotes/Week05/lesson1/MySet/MySet/bin/Debug/net8.0/MySet.dll
+/Users/comeaul/My Drive (comeaul@byui.edu)/Courses/CSE212/_LessonNotes/Week05/lesson1/MySet/MySet/bin/Debug/net8.0/MySet.pdb
+/Users/comeaul/My Drive (comeaul@byui.edu)/Courses/CSE212/_LessonNotes/Week05/lesson1/MySet/MySet/obj/Debug/net8.0/MySet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/comeaul/My Drive (comeaul@byui.edu)/Courses/CSE212/_LessonNotes/Week05/lesson1/MySet/MySet/obj/Debug/net8.0/MySet.AssemblyInfoInputs.cache
+/Users/comeaul/My Drive (comeaul@byui.edu)/Courses/CSE212/_LessonNotes/Week05/lesson1/MySet/MySet/obj/Debug/net8.0/MySet.AssemblyInfo.cs
+/Users/comeaul/My Drive (comeaul@byui.edu)/Courses/CSE212/_LessonNotes/Week05/lesson1/MySet/MySet/obj/Debug/net8.0/MySet.csproj.CoreCompileInputs.cache
+/Users/comeaul/My Drive (comeaul@byui.edu)/Courses/CSE212/_LessonNotes/Week05/lesson1/MySet/MySet/obj/Debug/net8.0/MySet.dll
+/Users/comeaul/My Drive (comeaul@byui.edu)/Courses/CSE212/_LessonNotes/Week05/lesson1/MySet/MySet/obj/Debug/net8.0/refint/MySet.dll
+/Users/comeaul/My Drive (comeaul@byui.edu)/Courses/CSE212/_LessonNotes/Week05/lesson1/MySet/MySet/obj/Debug/net8.0/MySet.pdb
+/Users/comeaul/My Drive (comeaul@byui.edu)/Courses/CSE212/_LessonNotes/Week05/lesson1/MySet/MySet/obj/Debug/net8.0/MySet.genruntimeconfig.cache
+/Users/comeaul/My Drive (comeaul@byui.edu)/Courses/CSE212/_LessonNotes/Week05/lesson1/MySet/MySet/obj/Debug/net8.0/ref/MySet.dll
+/Users/comeaul/My Drive (comeaul@byui.edu)/Courses/CSE212/_LessonNotes/Week05/Lesson1 - 2024-02-05/MySet/MySet/bin/Debug/net8.0/MySet
+/Users/comeaul/My Drive (comeaul@byui.edu)/Courses/CSE212/_LessonNotes/Week05/Lesson1 - 2024-02-05/MySet/MySet/bin/Debug/net8.0/MySet.deps.json
+/Users/comeaul/My Drive (comeaul@byui.edu)/Courses/CSE212/_LessonNotes/Week05/Lesson1 - 2024-02-05/MySet/MySet/bin/Debug/net8.0/MySet.runtimeconfig.json
+/Users/comeaul/My Drive (comeaul@byui.edu)/Courses/CSE212/_LessonNotes/Week05/Lesson1 - 2024-02-05/MySet/MySet/bin/Debug/net8.0/MySet.dll
+/Users/comeaul/My Drive (comeaul@byui.edu)/Courses/CSE212/_LessonNotes/Week05/Lesson1 - 2024-02-05/MySet/MySet/bin/Debug/net8.0/MySet.pdb
+/Users/comeaul/My Drive (comeaul@byui.edu)/Courses/CSE212/_LessonNotes/Week05/Lesson1 - 2024-02-05/MySet/MySet/obj/Debug/net8.0/MySet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/comeaul/My Drive (comeaul@byui.edu)/Courses/CSE212/_LessonNotes/Week05/Lesson1 - 2024-02-05/MySet/MySet/obj/Debug/net8.0/MySet.AssemblyInfoInputs.cache
+/Users/comeaul/My Drive (comeaul@byui.edu)/Courses/CSE212/_LessonNotes/Week05/Lesson1 - 2024-02-05/MySet/MySet/obj/Debug/net8.0/MySet.AssemblyInfo.cs
+/Users/comeaul/My Drive (comeaul@byui.edu)/Courses/CSE212/_LessonNotes/Week05/Lesson1 - 2024-02-05/MySet/MySet/obj/Debug/net8.0/MySet.csproj.CoreCompileInputs.cache
+/Users/comeaul/My Drive (comeaul@byui.edu)/Courses/CSE212/_LessonNotes/Week05/Lesson1 - 2024-02-05/MySet/MySet/obj/Debug/net8.0/MySet.dll
+/Users/comeaul/My Drive (comeaul@byui.edu)/Courses/CSE212/_LessonNotes/Week05/Lesson1 - 2024-02-05/MySet/MySet/obj/Debug/net8.0/refint/MySet.dll
+/Users/comeaul/My Drive (comeaul@byui.edu)/Courses/CSE212/_LessonNotes/Week05/Lesson1 - 2024-02-05/MySet/MySet/obj/Debug/net8.0/MySet.pdb
+/Users/comeaul/My Drive (comeaul@byui.edu)/Courses/CSE212/_LessonNotes/Week05/Lesson1 - 2024-02-05/MySet/MySet/obj/Debug/net8.0/MySet.genruntimeconfig.cache
+/Users/comeaul/My Drive (comeaul@byui.edu)/Courses/CSE212/_LessonNotes/Week05/Lesson1 - 2024-02-05/MySet/MySet/obj/Debug/net8.0/ref/MySet.dll

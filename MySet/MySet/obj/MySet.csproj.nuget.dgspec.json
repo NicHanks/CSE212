@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/comeaul/My Drive (comeaul@byui.edu)/Courses/CSE212/_LessonNotes/Week05/Lesson1 - 2024-02-05/MySet/MySet/MySet.csproj": {}
+  },
+  "projects": {
+    "/Users/comeaul/My Drive (comeaul@byui.edu)/Courses/CSE212/_LessonNotes/Week05/Lesson1 - 2024-02-05/MySet/MySet/MySet.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/comeaul/My Drive (comeaul@byui.edu)/Courses/CSE212/_LessonNotes/Week05/Lesson1 - 2024-02-05/MySet/MySet/MySet.csproj",
+        "projectName": "MySet",
+        "projectPath": "/Users/comeaul/My Drive (comeaul@byui.edu)/Courses/CSE212/_LessonNotes/Week05/Lesson1 - 2024-02-05/MySet/MySet/MySet.csproj",
+        "packagesPath": "/Users/comeaul/.nuget/packages/",
+        "outputPath": "/Users/comeaul/My Drive (comeaul@byui.edu)/Courses/CSE212/_LessonNotes/Week05/Lesson1 - 2024-02-05/MySet/MySet/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/comeaul/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
