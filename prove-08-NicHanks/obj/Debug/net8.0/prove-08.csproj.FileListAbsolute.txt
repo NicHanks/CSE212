@@ -1,0 +1,15 @@
+C:\Users\nicha\Documents\BYUI\winter2024\CSE212\w08\prove-08-NicHanks\bin\Debug\net8.0\prove-08.exe
+C:\Users\nicha\Documents\BYUI\winter2024\CSE212\w08\prove-08-NicHanks\bin\Debug\net8.0\prove-08.deps.json
+C:\Users\nicha\Documents\BYUI\winter2024\CSE212\w08\prove-08-NicHanks\bin\Debug\net8.0\prove-08.runtimeconfig.json
+C:\Users\nicha\Documents\BYUI\winter2024\CSE212\w08\prove-08-NicHanks\bin\Debug\net8.0\prove-08.dll
+C:\Users\nicha\Documents\BYUI\winter2024\CSE212\w08\prove-08-NicHanks\bin\Debug\net8.0\prove-08.pdb
+C:\Users\nicha\Documents\BYUI\winter2024\CSE212\w08\prove-08-NicHanks\obj\Debug\net8.0\prove-08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicha\Documents\BYUI\winter2024\CSE212\w08\prove-08-NicHanks\obj\Debug\net8.0\prove-08.AssemblyInfoInputs.cache
+C:\Users\nicha\Documents\BYUI\winter2024\CSE212\w08\prove-08-NicHanks\obj\Debug\net8.0\prove-08.AssemblyInfo.cs
+C:\Users\nicha\Documents\BYUI\winter2024\CSE212\w08\prove-08-NicHanks\obj\Debug\net8.0\prove-08.csproj.CoreCompileInputs.cache
+C:\Users\nicha\Documents\BYUI\winter2024\CSE212\w08\prove-08-NicHanks\obj\Debug\net8.0\prove-08.sourcelink.json
+C:\Users\nicha\Documents\BYUI\winter2024\CSE212\w08\prove-08-NicHanks\obj\Debug\net8.0\prove-08.dll
+C:\Users\nicha\Documents\BYUI\winter2024\CSE212\w08\prove-08-NicHanks\obj\Debug\net8.0\refint\prove-08.dll
+C:\Users\nicha\Documents\BYUI\winter2024\CSE212\w08\prove-08-NicHanks\obj\Debug\net8.0\prove-08.pdb
+C:\Users\nicha\Documents\BYUI\winter2024\CSE212\w08\prove-08-NicHanks\obj\Debug\net8.0\prove-08.genruntimeconfig.cache
+C:\Users\nicha\Documents\BYUI\winter2024\CSE212\w08\prove-08-NicHanks\obj\Debug\net8.0\ref\prove-08.dll

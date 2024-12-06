@@ -1,0 +1,15 @@
+C:\Users\nicha\Documents\BYUI\winter2024\CSE212\w08\demo-08c-solution\bin\Debug\net8.0\demo-08c-solution.exe
+C:\Users\nicha\Documents\BYUI\winter2024\CSE212\w08\demo-08c-solution\bin\Debug\net8.0\demo-08c-solution.deps.json
+C:\Users\nicha\Documents\BYUI\winter2024\CSE212\w08\demo-08c-solution\bin\Debug\net8.0\demo-08c-solution.runtimeconfig.json
+C:\Users\nicha\Documents\BYUI\winter2024\CSE212\w08\demo-08c-solution\bin\Debug\net8.0\demo-08c-solution.dll
+C:\Users\nicha\Documents\BYUI\winter2024\CSE212\w08\demo-08c-solution\bin\Debug\net8.0\demo-08c-solution.pdb
+C:\Users\nicha\Documents\BYUI\winter2024\CSE212\w08\demo-08c-solution\obj\Debug\net8.0\demo-08c-solution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicha\Documents\BYUI\winter2024\CSE212\w08\demo-08c-solution\obj\Debug\net8.0\demo-08c-solution.AssemblyInfoInputs.cache
+C:\Users\nicha\Documents\BYUI\winter2024\CSE212\w08\demo-08c-solution\obj\Debug\net8.0\demo-08c-solution.AssemblyInfo.cs
+C:\Users\nicha\Documents\BYUI\winter2024\CSE212\w08\demo-08c-solution\obj\Debug\net8.0\demo-08c-solution.csproj.CoreCompileInputs.cache
+C:\Users\nicha\Documents\BYUI\winter2024\CSE212\w08\demo-08c-solution\obj\Debug\net8.0\demo-08c-solution.sourcelink.json
+C:\Users\nicha\Documents\BYUI\winter2024\CSE212\w08\demo-08c-solution\obj\Debug\net8.0\demo-08c-solution.dll
+C:\Users\nicha\Documents\BYUI\winter2024\CSE212\w08\demo-08c-solution\obj\Debug\net8.0\refint\demo-08c-solution.dll
+C:\Users\nicha\Documents\BYUI\winter2024\CSE212\w08\demo-08c-solution\obj\Debug\net8.0\demo-08c-solution.pdb
+C:\Users\nicha\Documents\BYUI\winter2024\CSE212\w08\demo-08c-solution\obj\Debug\net8.0\demo-08c-solution.genruntimeconfig.cache
+C:\Users\nicha\Documents\BYUI\winter2024\CSE212\w08\demo-08c-solution\obj\Debug\net8.0\ref\demo-08c-solution.dll
